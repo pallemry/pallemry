@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pallemry
-- 👀 I’m interested in Coding, obviously, especially in .NET
+- 👀 I’m interested in software engineering from AI to websites or video games
 - 🌱 I’m currently learning Unity and C++
-- 💞️ I’m looking to collaborate on freelances in both backend and frontend
+- 💞️ I’m looking to collaborate on freelances
 - 📫 How to reach me - Best would be by email - <a>yishai.israel8@gmail.com</a>
 
 <!---
